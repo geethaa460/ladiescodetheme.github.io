@@ -10,7 +10,11 @@ This testimonial widget plugin will allo you to display testimonials in a sideba
 
 You can display multiple testimonails in a sidebar on your WordPress blog. 
 
-More than one widget can be displayed. More than one widget can be used and you can also style it with CSS. 
+More than one widget can be displayed. Each widget can be customized with CSS styling.
+
+You can make a simple client or portfolio rotator by using the testimonial field as the client or organization name, and the source field with the URL and tag as "portfolio". Then in the widget, show source and require tag "portfolio". 
+
+
 
  
 
